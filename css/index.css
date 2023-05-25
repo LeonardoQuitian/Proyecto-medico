@@ -1,0 +1,32 @@
+body {
+    background-image: url(https://thumbs.dreamstime.com/b/personaje-de-la-caricatura-un-pato-triste-con-muletas-y-pierna-pl%C3%A1stico-ilustraci%C3%B3n-vectorial-aislada-en-fondo-blanco-200277743.jpg);
+    background-repeat: no-repeat;
+    background-size:1000px;
+    background-position-x: center;
+    
+    
+
+   
+}
+h1{
+font-family: 'Roboto Condensed', sans-serif;
+color: white;
+background-color:black ;
+text-align: center;
+}
+main div {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    max-width: 500px;
+    margin: auto;
+    font-size: 20px;
+    margin-block: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+margin-right: -50%;
+transform: translate(-50%, -50%);
+    
+}
+
+
